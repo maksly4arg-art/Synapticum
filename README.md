@@ -2,6 +2,8 @@
 
 **A personal multi-agent AI company: 8 autonomous Telegram agents + an orchestrating Builder, running on one Mac Studio.**
 
+🌐 **Synapticum Studio** - студия, которая собирает персональные операционные системы под процессы человека: [synapticum.studio](https://synapticum.studio) · Personal operating systems for founders, traders, investors and creators.
+
 Synapticum - это личная мультиагентная AI-система: команда автономных агентов, каждый со своей ролью, личностью, памятью и Telegram-ботом. Builder (Claude Code) строит и чинит систему; агенты делают работу.
 
 ## Агенты
